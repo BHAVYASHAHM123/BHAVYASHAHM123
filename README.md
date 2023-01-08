@@ -30,6 +30,6 @@
 
 
 ### My Hobbies and interests:
-* Cricket
 * Anchoring
 * Coding
+* Cricket
