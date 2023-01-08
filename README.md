@@ -2,7 +2,9 @@
   <h1 align="center">I'm Bhavya Shah 😀</h1>
 
 ### I have technical knowledge in:
-* Deep Learning
-* Machine Learning
-* Computer vision 
+* Machine Learning 
+* Computer vision
 * Natural Language Processing
+* Deep Learning
+
+
