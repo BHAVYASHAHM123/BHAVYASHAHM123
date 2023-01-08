@@ -9,5 +9,5 @@
 
   
   <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href=["https://www.arduino.cc/](https://www.python.org/doc/)" target="_blank"> <img src="[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://cdn.worldvectorlogo.com/logos/python.svg)" alt="python" width="40" height="40"/> </a>
+<p align="left"> <a href=["https://www.arduino.cc/](https://www.python.org/doc/)" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt="python" width="40" height="40"/> </a>
 
