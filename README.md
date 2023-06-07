@@ -3,6 +3,7 @@
 
   
 ### I have technical knowledge in:
+* Generative AI
 * Machine Learning 
 * Computer vision
 * Natural Language Processing
