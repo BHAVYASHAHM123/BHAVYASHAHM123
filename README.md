@@ -10,6 +10,8 @@
 * Deep Learning
 * Tableau
 * Power-Bi
+* Microsoft SQL Server
+* MY-SQL
 * Snowflake
 * AWS
   
